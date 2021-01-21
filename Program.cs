@@ -71,18 +71,3 @@ namespace Server
         }
     }
 }
-//if (msg == "__file__")
-//{
-
-//    fline = rdr.ReadLine();
-//    wtr.WriteLine($"Got: {fline}");
-//    wtr.Flush();
-//    //while (fline != null)
-//    //{
-//    //    fline = rdr.ReadLine();
-//    //    wtr.WriteLine($"Got: {fline}");
-//    //    wtr.Flush();
-//    //}
-//}
-//else
-//{
