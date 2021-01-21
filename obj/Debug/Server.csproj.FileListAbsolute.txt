@@ -1,0 +1,7 @@
+D:\Visual Studio\source\repos\Distributed_Systems\Server\bin\Debug\Server.exe.config
+D:\Visual Studio\source\repos\Distributed_Systems\Server\bin\Debug\Server.exe
+D:\Visual Studio\source\repos\Distributed_Systems\Server\bin\Debug\Server.pdb
+D:\Visual Studio\source\repos\Distributed_Systems\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Visual Studio\source\repos\Distributed_Systems\Server\obj\Debug\Server.exe
+D:\Visual Studio\source\repos\Distributed_Systems\Server\obj\Debug\Server.pdb
+D:\Visual Studio\source\repos\Distributed_Systems\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
